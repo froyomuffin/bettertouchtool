@@ -1,0 +1,2 @@
+# bettertouchtool
+Configs for BetterTouchTool
